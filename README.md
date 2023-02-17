@@ -19,4 +19,4 @@
 
 # Note
 
-- Commits are not shown as I did client and server seperately on git
+- Commits are not shown as I did `client` and `server` seperately on git
